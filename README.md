@@ -1,4 +1,4 @@
-# Isaac_Kim_Project_03
+# Predicting Mortality in the ICU
 
 Doctors and nurses working in the ICU can use all of the help they can get, and this project attempts to do so by creating a model they can use to help predict patient mortality, so they can better allocate available resources.
 
